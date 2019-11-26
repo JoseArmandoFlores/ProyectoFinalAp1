@@ -98,7 +98,7 @@
             this.IngresarButton.ForeColor = System.Drawing.SystemColors.ControlLightLight;
             this.IngresarButton.Image = global::ProyectoFinal.Properties.Resources.Login;
             this.IngresarButton.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.IngresarButton.Location = new System.Drawing.Point(31, 143);
+            this.IngresarButton.Location = new System.Drawing.Point(31, 142);
             this.IngresarButton.Name = "IngresarButton";
             this.IngresarButton.Size = new System.Drawing.Size(355, 46);
             this.IngresarButton.TabIndex = 45;
